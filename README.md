@@ -32,3 +32,4 @@ In the next half of the exercise, I used support vector machines to build a spam
 - processEmail.m - Email preprocessing
 - emailFeatures.m - Feature extraction from emails
 
+Submited to and evaluated by Machine Learning Coursera course as Stanford
